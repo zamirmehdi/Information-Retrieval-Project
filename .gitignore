@@ -1,0 +1,23 @@
+# Compiled Python files
+__pycache__/
+
+# Byte-compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+*.pyc
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Temporary files
+*.bak
+*.swp
+
+# Environment and virtual environment files
+.env
+venv/
+.idea/
+
+.DS_Store
