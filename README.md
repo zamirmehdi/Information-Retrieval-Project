@@ -795,6 +795,8 @@ Questions or collaborations? Feel free to reach out!
 
 ---
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <div align="center">
 
 ⭐ **If you found this project helpful, please consider giving it a star!** ⭐
