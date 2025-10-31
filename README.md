@@ -1,4 +1,4 @@
-# Information Retrieval System - Persian News Search Engine
+<h1 align="center">Information Retrieval Course </br>( Persian News Search Engine )</h1>
 
 A comprehensive search engine for retrieving Persian text documents using various IR algorithms including Boolean retrieval, Vector Space Model with TF-IDF, clustering, and classification. Searches a dataset of 7,000 Persian news articles and returns ranked results.
 
